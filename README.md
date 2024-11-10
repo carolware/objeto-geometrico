@@ -1,6 +1,6 @@
 # Geometric Shapes Project
 
-Este projeto em Java foi desenvolvido para ilustrar conceitos de Programação Orientada a Objetos (POO), incluindo a utilização de classes, herança, encapsulamento e abstração. O programa permite a criação e manipulação de formas geométricas, como quadrados, retângulos, triângulos e circunferências.
+Este projeto em Java foi desenvolvido com o objetivo de ilustrar conceitos de Programação Orientada a Objetos (POO), como o uso de classes, herança, encapsulamento e abstração. O programa permite a criação e manipulação de diversas formas geométricas, como quadrados, retângulos, triângulos e círculos.
 
 ## Funcionalidades
 
@@ -23,5 +23,5 @@ Antes de executar o projeto, você precisará ter o seguinte instalado em seu si
 Primeiro, clone o repositório para a sua máquina local. Abra o terminal e execute o seguinte comando:
 
 ```bash
-git clone https://github.com/YgorGdev/ObjetoGeometrico.git
+git clone https://github.com/carouware/objeto-geometrico.git
 # objeto-geometrico
